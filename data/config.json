@@ -1,0 +1,43 @@
+[
+    {
+
+        "id_name": "theaustralian", 
+        "url": "https://www.theaustralian.com.au/news/latest-news",
+        "element_name": "storyblock_title_link",
+        "class_element": ""
+
+    },
+    {
+
+        "id_name": "fedcourt", 
+        "url": "https://www.fedcourt.gov.au/news-and-events",
+        "element_name": "a",
+        "class_element": ""
+
+    },
+    {
+
+        "id_name": "austlii", 
+        "url": "https://www.austlii.edu.au/",
+        "element_name": "a",
+        "class_element": ""
+
+    },
+    {
+
+        "id_name": "asic" ,
+        "url": "https://asic.gov.au/newsroom",
+        "element_name": "h3",
+        "class_element": ""
+
+    },
+    {
+
+        "id_name": "nzh" ,
+        "url": "https://www.nzherald.co.nz/nz/",
+        "element_name": "a",
+        "class_element": ""
+
+    }
+
+]
